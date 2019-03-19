@@ -7,8 +7,9 @@ gem "minimal-mistakes-jekyll"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  # gem 'github-pages'
+  gem 'github-pages'
   gem 'jekyll-sitemap'
   gem 'jekyll-feed'
   gem 'jekyll-seo-tag'
+  gem 'jekyll-include-cache'
 end
