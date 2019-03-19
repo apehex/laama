@@ -30,12 +30,10 @@ twitter_url: https://github.com/moodule
 # Collections
 
 # Build settings
+theme: minima
 markdown: kramdown
 sass:
   style: compressed
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-include-cache
 
 # Publication settings
 baseurl: "" # the subpath of your site, e.g. /blog
