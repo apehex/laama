@@ -30,7 +30,7 @@ twitter_url: https://github.com/apehex
 # Collections
 
 # Build settings
-theme: minima
+theme: jekyll-theme-twenty
 markdown: kramdown
 sass:
   style: compressed
