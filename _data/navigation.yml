@@ -1,0 +1,13 @@
+menu:
+  - title: Our Refuge
+    url: /refuge
+  - title: The Rescued
+    url: /rescued
+  - title: Help Us
+    url: /contribute
+  - title: News
+    url: /blog
+  - title: The Association
+    url: /about
+  - title: Contact
+    url: /contact
