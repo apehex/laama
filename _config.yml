@@ -27,7 +27,9 @@ pinterest_url: https://github.com/moodule
 slack_url: https://github.com/moodule
 twitter_url: https://github.com/moodule
 
-# Collections
+# Legal Mentions
+legal_terms: /legal
+privacy_policy: /privacy
 
 # Build settings
 theme: jekyll-theme-twenty
