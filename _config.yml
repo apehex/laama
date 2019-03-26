@@ -27,7 +27,9 @@ pinterest_url: https://github.com/apehex
 slack_url: https://github.com/apehex
 twitter_url: https://github.com/apehex
 
-# Collections
+# Legal Mentions
+legal_terms: /legal
+privacy_policy: /privacy
 
 # Build settings
 theme: jekyll-theme-twenty
