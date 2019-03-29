@@ -7,29 +7,35 @@ description: >- # this means to ignore newlines until "baseurl:"
   Sensibiliser le public.
 
 # Contact information
-street_address: Aidez nous à trouver une terre d'accueil ! 
-city: De préférence à la campagne
+street_address: 1950 route de Saint Romain
+city: Saint Barthélémy le plain
 state: Rhône Alpes
-zip_code: SOS
+zip_code: 07300
 country: France
 phone: (33) 608 286 626
 email: info@laama.org
 
 # Social settings
-500px_url: https://github.com/moodule
-facebook_url: https://github.com/moodule
-github_url: https://github.com/moodule
-gitlab_url: https://github.com/moodule
-googleplus_url: https://github.com/moodule
-instagram_url: https://github.com/moodule
-linkedin_url: https://github.com/moodule
-pinterest_url: https://github.com/moodule
-slack_url: https://github.com/moodule
-twitter_url: https://github.com/moodule
+twitter_url: https://twitter.com/
+facebook_url: https://www.facebook.com/LAAMA-392548667977247/
+discord_url: https://discord.com/
+helloasso_url: https://www.helloasso.com/associations/laama
 
-# Legal Mentions
-legal_terms: /legal
-privacy_policy: /privacy
+# Optional elements
+logo_url: /assets/images/logo.png
+legal_terms_url: /legal-terms
+privacy_policy_url: /privacy-policy
+
+# Collections
+collections:
+  about-us:
+    output: true
+  help-us:
+    output: true
+  our-refuge:
+    output: true
+  we-rescued:
+    output: true
 
 # Build settings
 theme: jekyll-theme-twenty
@@ -40,6 +46,7 @@ sass:
 # Publication settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: pretty
 author: David Mougeolle
 
 # Exclude from processing
