@@ -9,12 +9,12 @@ menu:
       - title: Raise Awareness
         url: /our-refuge/raise-awareness
   - title: The Rescued
-    url: /we-rescued
+    url: /the-rescued
     menu:
       - title: Farm Animals
-        url: /we-rescue/farm-animals
+        url: /the-rescued/farm-animals
       - title : Domestic Animals
-        url: /we-rescue/domestic-animals
+        url: /the-rescued/domestic-animals
   - title: Help Us
     url: /help-us
     menu:
