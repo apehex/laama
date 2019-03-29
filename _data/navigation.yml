@@ -1,13 +1,41 @@
 menu:
   - title: Our Refuge
-    url: /refuge
+    url: /our-refuge
+    menu:
+      - title: Rescue
+        url: /our-refuge/rescue
+      - title: Train
+        url: /our-refuge/train
+      - title: Raise Awareness
+        url: /our-refuge/raise-awareness
   - title: The Rescued
-    url: /rescued
+    url: /we-rescued
+    menu:
+      - title: Farm Animals
+        url: /we-rescue/farm-animals
+      - title : Domestic Animals
+        url: /we-rescue/domestic-animals
   - title: Help Us
-    url: /contribute
+    url: /help-us
+    menu:
+      - title: Donate
+        url: /help-us/donate
+      - title: Join Us !
+        url: /help-us/join
+      - title: Sponsor an Animal
+        url: /help-us/sponsor
+      - title: Volunteer
+        url: /help-us/volunteer
   - title: News
-    url: /blog
+    url: /news
   - title: About Us
-    url: /about
+    url: /about-us
+    menu:
+      - title: Our Values
+        url: /about-us/our-values
+      - title: The Statute
+        url: /about-us/the-statutes
+      - title: The Statements of Accounts
+        url: /about-us/the-statements-of-account
   - title: Contact
     url: /contact
