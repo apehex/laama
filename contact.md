@@ -33,7 +33,7 @@ layout: page
                             <span class="icon fa-envelope"></span>
                             {{ site.email }}
                         </p>
-                        <a href="#" class="image featured"><img src="assets/images/pic03.jpg" alt="" /></a>
+                        <a href="#" class="image featured"><img src="{{ 'assets/images/cochon-dinde.png' | absolute_url }}" alt="" /></a>
                     </section>
                 </div>
 
