@@ -5,7 +5,7 @@ layout: page
 
     <header class="special container">
         <span class="icon fa-paw"></span>
-        <h2>Accueillir et prodiguer des <strong>formations</strong en lien avec le bien être animal</h2>
+        <h2>Accueillir et prodiguer des <strong>formations</strong> en lien avec le bien être animal</h2>
         <p>Where that in the center faces the nameless horrors alone.</p>
     </header>
 
@@ -64,7 +64,7 @@ layout: page
 
                     <section>
                         <header>
-                            <h3>Construction et aménagement d'espace d'accueil</h3>
+                            <h3>Aménagement d'espace d'accueil</h3>
                         </header>
                         <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
                         <footer>
