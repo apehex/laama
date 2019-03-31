@@ -5,7 +5,7 @@ title: Our Values
 <article id="main">
 
     <header class="special container">
-        <span class="icon fa-alicorn"></span>
+        <span class="icon fa-heart"></span>
         <h2>Our <strong>Values</strong></h2>
         <p>And our vision of the refuge.</p>
     </header>
@@ -33,8 +33,8 @@ title: Our Values
                         <h3>Le respect de la biodiversité</h3>
                     </header>
                     <p>En offrant un environnement dépourvu de produit chimique. Nous favorisons la flore utile aux insectes et oiseaux et mettons en place des habitats à destination de la faune sauvage locale. Nous participons également aux observations et comptage de certaines espèces permettant un état des lieux de la biodiversité.</p>
-                    <a href="#" class="image featured"><img src="{{ 'assets/images/pic01.jpg' | absolute_url }}" alt="" /></a>
                 </section>
+                <a href="#" class="image featured"><img src="{{ 'assets/images/papillon.png' | absolute_url }}" alt="" /></a>
             </div>
 
     </section>
