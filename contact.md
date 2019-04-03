@@ -54,10 +54,18 @@ layout: page
                                     <input type="text" name="phone" placeholder="Phone Number" />
                                 </div>
                                 <div class="col-12">
-                                    <input type="text" name="subject" placeholder="Subject" />
+                                    <select>
+                                        <option value="0">Choose a subject</option>
+                                        <option value="0">Sponsoring an animal</option>
+                                        <option value="0">Donating</option>
+                                        <option value="0">Visiting the refuge</option>
+                                        <option value="0">Volunteering</option>
+                                        <option value="0">Contacting the press</option>
+                                        <option value="0">Other</option>
+                                    </select>
                                 </div>
                                 <div class="col-12">
-                                    <textarea name="message" placeholder="Message" rows="7"></textarea>
+                                    <textarea name="message" placeholder="Your message" rows="7"></textarea>
                                 </div>
                                 <div class="col-12">
                                     <ul class="buttons">
