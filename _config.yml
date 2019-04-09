@@ -22,9 +22,9 @@ discord_url: https://discord.com/
 helloasso_url: https://www.helloasso.com/associations/laama
 
 # Optional elements
-logo_url: /assets/images/logo.png
-legal_terms_url: /legal-terms
-privacy_policy_url: /privacy-policy
+logo_url: assets/images/logo.png
+legal_terms_url: legal-terms
+privacy_policy_url: privacy-policy
 
 # Collections
 collections:
