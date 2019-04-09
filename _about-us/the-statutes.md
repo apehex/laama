@@ -5,7 +5,7 @@ layout: page
 
     <header class="special container">
         <span class="icon fa-files-o"></span>
-        <h2><strong>STATUTS</strong></h2>
+        <h2><strong>LES STATUTS</strong></h2>
     </header>
 
     <!-- One -->
