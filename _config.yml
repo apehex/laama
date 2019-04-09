@@ -50,3 +50,4 @@ permalink: pretty
 author: David Mougeolle
 
 # Exclude from processing
+exlude: [".sass-cache/", "_site/"]
