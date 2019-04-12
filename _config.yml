@@ -44,10 +44,10 @@ sass:
   style: compressed
 
 # Publication settings
-baseurl: "" # the subpath of your site, e.g. /blog
+  baseurl: "https://apehex.github.io/laama/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 author: apehex
 
 # Exclude from processing
-exlude: [".sass-cache/", "_site/"]
+exlude: [".sass-cache/"]
