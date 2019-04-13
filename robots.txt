@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://apehex.github.io/laama//sitemap.xml
