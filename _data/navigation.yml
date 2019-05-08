@@ -26,8 +26,6 @@ menu:
         url: /help-us/sponsor
       - title: Volunteer
         url: /help-us/volunteer
-  - title: News
-    url: /news
   - title: About Us
     url: /about-us
     menu:
