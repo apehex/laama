@@ -20,10 +20,10 @@ menu:
   - title: Help Us
     url: /help-us
     menu:
-      - title: Donate
-        url: /help-us/donate
       - title: Join Us !
         url: /help-us/join
+      - title: Donate
+        url: /help-us/donate
       - title: Sponsor an Animal
         url: /help-us/sponsor
       - title: Volunteer
