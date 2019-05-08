@@ -31,9 +31,7 @@ menu:
   - title: About Us
     url: /about-us
     menu:
-      - title: The Statutes
-        url: /about-us/the-statutes
-      - title: The Statements of Accounts
-        url: /about-us/the-statements-of-account
+      - title: Administration
+        url: /about-us/administration
   - title: Contact
     url: /contact
