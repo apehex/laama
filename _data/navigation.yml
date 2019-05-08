@@ -6,10 +6,6 @@ menu:
         url: /our-refuge/rescue
       - title: Our Values
         url: /our-refuge/our-values
-      - title: Train
-        url: /our-refuge/train
-      - title: Raise Awareness
-        url: /our-refuge/raise-awareness
   - title: The Rescued
     url: /the-rescued
     menu:
@@ -26,6 +22,15 @@ menu:
         url: /help-us/sponsor
       - title: Volunteer
         url: /help-us/volunteer
+  - title: The Project
+    url: /the-project
+    menu:
+      - title: Rescue
+        url: /the-project/rescue
+      - title: Train
+        url: /the-project/train
+      - title: Raise Awareness
+        url: /the-project/raise-awareness
   - title: About Us
     url: /about-us
     menu:

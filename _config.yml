@@ -34,6 +34,8 @@ collections:
     output: true
   our-refuge:
     output: true
+  the-project:
+    output: true
   the-rescued:
     output: true
 
