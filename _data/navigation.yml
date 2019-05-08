@@ -15,8 +15,6 @@ menu:
     menu:
       - title: Farm Animals
         url: /the-rescued/farm-animals
-      - title : Domestic Animals
-        url: /the-rescued/domestic-animals
   - title: Help Us
     url: /help-us
     menu:
