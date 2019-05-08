@@ -40,7 +40,7 @@ collections:
     output: true
 
 # Build settings
-theme: jekyll-theme-twenty
+theme: jekyll-theme-parallelism
 markdown: kramdown
 sass:
   style: compressed
