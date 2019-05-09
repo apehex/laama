@@ -28,16 +28,12 @@ privacy_policy_url: privacy-policy
 
 # Collections
 collections:
-  about-us:
-    output: true
-  help-us:
-    output: true
   our-refuge:
     output: true
-  the-project:
-    output: true
+    date: 2019-01-01
   the-rescued:
     output: true
+    date: 2019-05-01
 
 # Build settings
 theme: jekyll-theme-parallelism
