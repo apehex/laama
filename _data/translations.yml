@@ -1,0 +1,82 @@
+menu:
+  default:
+    en:
+      - title: Our Refuge
+        url: /our-refuge
+        menu:
+          - title: Shelters
+            url: /our-refuge/shelters/
+          - title: Our Values
+            url: /our-refuge/our-values/
+      - title: The Rescued
+        url: /the-rescued/
+        menu:
+          - title: Farm Animals
+            url: /the-rescued/farm-animals/
+      - title: Help Us
+        url: /help-us
+        menu:
+          - title: Join Us !
+            url: /help-us/join/
+          - title: Donate
+            url: /help-us/donate/
+          - title: Sponsor an Animal
+            url: /help-us/sponsor/
+          - title: Volunteer
+            url: /help-us/volunteer/
+      - title: The Project
+        url: /the-project/
+        menu:
+          - title: Rescue
+            url: /the-project/rescue/
+          - title: Train
+            url: /the-project/train/
+          - title: Raise Awareness
+            url: /the-project/raise-awareness/
+      - title: About Us
+        url: /about-us/
+        menu:
+          - title: Administration
+            url: /about-us/administration/
+      - title: Contact
+        url: /contact/
+    fr:
+      - title: Notre Refuge
+        url: /notre-refuge
+        menu:
+          - title: Secourir
+            url: /notre-refuge/secourir/
+          - title: Nos Valeurs
+            url: /notre-refuge/nos-valeurs/
+      - title: Les Rescapés
+        url: /les-rescapes/
+        menu:
+          - title: Animaux de Ferme
+            url: /les-rescapes/animaux-de-ferme/
+      - title: Aidez Nous
+        url: /aidez-nous
+        menu:
+          - title: Rejoignez Nous !
+            url: /aidez-nous/inscription/
+          - title: Dons
+            url: /aidez-nous/dons/
+          - title: Parrainer un Animal
+            url: /aidez-nous/parrainer-un-animal/
+          - title: Bénévolat
+            url: /aidez-nous/benevolat/
+      - title: Le Projet
+        url: /le-projet/
+        menu:
+          - title: Secourir
+            url: /le-projet/secourir/
+          - title: "&Eacute;duquer"
+            url: /le-projet/eduquer/
+          - title: Sensibiliser
+            url: /le-projet/sensibiliser/
+      - title: "&Agrave; Propos"
+        url: /a-propos/
+        menu:
+          - title: Administration
+            url: /a-propos/administration/
+      - title: Contact
+        url: /contact/
