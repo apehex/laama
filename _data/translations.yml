@@ -2,81 +2,81 @@ menu:
   default:
     en:
       - title: Our Refuge
-        url: /our-refuge
+        url: /en/our-refuge/
         menu:
           - title: Shelters
-            url: /our-refuge/shelters/
+            url: /en/our-refuge/shelters/
           - title: Our Values
-            url: /our-refuge/our-values/
+            url: /en/our-refuge/our-values/
       - title: The Rescued
-        url: /the-rescued/
+        url: /en/the-rescued/
         menu:
           - title: Farm Animals
-            url: /the-rescued/farm-animals/
+            url: /en/the-rescued/farm-animals/
       - title: Help Us
-        url: /help-us
+        url: /en/help-us/
         menu:
           - title: Join Us !
-            url: /help-us/join/
-          - title: Donate
-            url: /help-us/donate/
+            url: /en/help-us/join/
+          - title: Donations
+            url: /en/help-us/donations/
           - title: Sponsor an Animal
-            url: /help-us/sponsor/
+            url: /en/help-us/sponsor/
           - title: Volunteer
-            url: /help-us/volunteer/
+            url: /en/help-us/volunteer/
       - title: The Project
-        url: /the-project/
+        url: /en/the-project/
         menu:
           - title: Rescue
-            url: /the-project/rescue/
+            url: /en/the-project/rescue/
           - title: Train
-            url: /the-project/train/
+            url: /en/the-project/train/
           - title: Raise Awareness
-            url: /the-project/raise-awareness/
+            url: /en/the-project/raise-awareness/
       - title: About Us
-        url: /about-us/
+        url: /en/about-us/
         menu:
           - title: Administration
-            url: /about-us/administration/
+            url: /en/about-us/administration/
       - title: Contact
-        url: /contact/
+        url: /en/contact/
     fr:
       - title: Notre Refuge
-        url: /notre-refuge
+        url: /fr/notre-refuge/
         menu:
           - title: Secourir
-            url: /notre-refuge/secourir/
+            url: /fr/notre-refuge/secourir/
           - title: Nos Valeurs
-            url: /notre-refuge/nos-valeurs/
+            url: /fr/notre-refuge/nos-valeurs/
       - title: Les Rescapés
-        url: /les-rescapes/
+        url: /fr/les-rescapes/
         menu:
           - title: Animaux de Ferme
-            url: /les-rescapes/animaux-de-ferme/
+            url: /fr/les-rescapes/animaux-de-ferme/
       - title: Aidez Nous
-        url: /aidez-nous
+        url: /fr/aidez-nous/
         menu:
           - title: Rejoignez Nous !
-            url: /aidez-nous/inscription/
+            url: /fr/aidez-nous/inscription/
           - title: Dons
-            url: /aidez-nous/dons/
+            url: /fr/aidez-nous/dons/
           - title: Parrainer un Animal
-            url: /aidez-nous/parrainer-un-animal/
+            url: /fr/aidez-nous/parrainer-un-animal/
           - title: Bénévolat
-            url: /aidez-nous/benevolat/
+            url: /fr/aidez-nous/benevolat/
       - title: Le Projet
-        url: /le-projet/
+        url: /fr/le-projet/
         menu:
           - title: Secourir
-            url: /le-projet/secourir/
+            url: /fr/le-projet/secourir/
           - title: "&Eacute;duquer"
-            url: /le-projet/eduquer/
+            url: /fr/le-projet/eduquer/
           - title: Sensibiliser
-            url: /le-projet/sensibiliser/
+            url: /fr/le-projet/sensibiliser/
       - title: "&Agrave; Propos"
-        url: /a-propos/
+        url: /fr/a-propos/
         menu:
           - title: Administration
-            url: /a-propos/administration/
+            url: /fr/a-propos/administration/
       - title: Contact
-        url: /contact/
+        url: /fr/contact/

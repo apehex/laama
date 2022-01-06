@@ -34,20 +34,10 @@ privacy_policy:
 # Recaptcha in forms
 recaptcha:
   sitekey: 6Lc1dcgUAAAAADahcuY9cIFM4iKqezKYOgfO_-Cw
-  secretkey: 
+  secretkey:
 
 # Collections
 collections:
-  about-us:
-    output: true
-  help-us:
-    output: true
-  our-refuge:
-    output: true
-  the-project:
-    output: true
-  the-rescued:
-    output: true
   articles:
     output: false
   redirects:

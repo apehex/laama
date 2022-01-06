@@ -38,16 +38,6 @@ recaptcha:
 
 # Collections
 collections:
-  about-us:
-    output: true
-  help-us:
-    output: true
-  our-refuge:
-    output: true
-  the-project:
-    output: true
-  the-rescued:
-    output: true
   articles:
     output: false
   redirects:
