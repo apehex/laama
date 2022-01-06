@@ -16,14 +16,14 @@ menu:
       - title: Help Us
         url: ""
         menu:
-          - title: Join Us !
-            url: /en/help-us/join/
+          - title: Joining
+            url: /en/help-us/joining/
           - title: Donations
             url: /en/help-us/donations/
-          - title: Sponsor an Animal
-            url: /en/help-us/sponsor/
-          - title: Volunteer
-            url: /en/help-us/volunteer/
+          - title: Sponsoring an Animal
+            url: /en/help-us/sponsoring/
+          - title: Volunteering
+            url: /en/help-us/volunteering/
       - title: The Project
         url: ""
         menu:
