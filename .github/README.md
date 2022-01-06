@@ -17,4 +17,4 @@
   <a href="https://apehex.github.io/laama/en/the-project">L'Association</a>
 </p>
 
-Code released under the [MIT License](https://github.com/apehex/laama/blob/master/LICENSE).
+Code released under the [MIT License](https://github.com/apehex/laama/blob/master/.github/LICENSE).
