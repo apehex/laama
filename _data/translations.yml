@@ -2,19 +2,19 @@ menu:
   default:
     en:
       - title: Our Refuge
-        url: /en/our-refuge/
+        url: ""
         menu:
           - title: Shelters
             url: /en/our-refuge/shelters/
           - title: Our Values
             url: /en/our-refuge/our-values/
       - title: The Rescued
-        url: /en/the-rescued/
+        url: ""
         menu:
           - title: Farm Animals
             url: /en/the-rescued/farm-animals/
       - title: Help Us
-        url: /en/help-us/
+        url: ""
         menu:
           - title: Join Us !
             url: /en/help-us/join/
@@ -25,7 +25,7 @@ menu:
           - title: Volunteer
             url: /en/help-us/volunteer/
       - title: The Project
-        url: /en/the-project/
+        url: ""
         menu:
           - title: Rescue
             url: /en/the-project/rescue/
@@ -34,7 +34,7 @@ menu:
           - title: Raise Awareness
             url: /en/the-project/raise-awareness/
       - title: About Us
-        url: /en/about-us/
+        url: ""
         menu:
           - title: Administration
             url: /en/about-us/administration/
@@ -42,19 +42,19 @@ menu:
         url: /en/contact/
     fr:
       - title: Notre Refuge
-        url: /fr/notre-refuge/
+        url: ""
         menu:
           - title: Secourir
             url: /fr/notre-refuge/secourir/
           - title: Nos Valeurs
             url: /fr/notre-refuge/nos-valeurs/
       - title: Les Rescapés
-        url: /fr/les-rescapes/
+        url: ""
         menu:
           - title: Animaux de Ferme
             url: /fr/les-rescapes/animaux-de-ferme/
       - title: Aidez Nous
-        url: /fr/aidez-nous/
+        url: ""
         menu:
           - title: Rejoignez Nous !
             url: /fr/aidez-nous/inscription/
@@ -65,7 +65,7 @@ menu:
           - title: Bénévolat
             url: /fr/aidez-nous/benevolat/
       - title: Le Projet
-        url: /fr/le-projet/
+        url: ""
         menu:
           - title: Secourir
             url: /fr/le-projet/secourir/
@@ -74,7 +74,7 @@ menu:
           - title: Sensibiliser
             url: /fr/le-projet/sensibiliser/
       - title: "&Agrave; Propos"
-        url: /fr/a-propos/
+        url: ""
         menu:
           - title: Administration
             url: /fr/a-propos/administration/
