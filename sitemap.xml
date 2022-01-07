@@ -1,73 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://apehex.github.io/laama//about-us</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//about-us/our-values/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//about-us/the-statements-of-account/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//about-us/the-statutes/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//help-us</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//our-refuge</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//our-refuge/raise-awareness/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//our-refuge/rescue/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//our-refuge/train/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//jekyll/update/2019/03/18/welcome-to-jekyll/</loc>
-<lastmod>2019-03-18T18:06:22+01:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//the-rescued/domestic-animals/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//the-rescued/farm-animals/</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//the-rescued</loc>
-<lastmod>2019-04-13T11:12:17+02:00</lastmod>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//404/</loc>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//contact/</loc>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//</loc>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//legal-terms</loc>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//news/</loc>
-</url>
-<url>
-<loc>https://apehex.github.io/laama//privacy-policy</loc>
-</url>
-</urlset>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://apehex.github.io/laama/</loc><xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/laama/" /><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/about-us/administration/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/about-us/administration/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/contact/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/contact/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/help-us/donations/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/help-us/donations/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/the-rescued/farm-animals/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/the-rescued/farm-animals/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/help-us</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/help-us" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/the-project</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/the-project" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/our-refuge</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/our-refuge" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/the-rescued</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/the-rescued" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/about-us</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/about-us" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/</loc><xhtml:link rel="alternate" hreflang="" href="https://apehex.github.io/laama/" /><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/help-us/joining/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/help-us/joining/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/legal-terms</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/legal-terms" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/the-project/our-values/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/the-project/our-values/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/privacy-policy</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/privacy-policy" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/the-project/raise-awareness/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/the-project/raise-awareness/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/the-project/rescue/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/the-project/rescue/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/our-refuge/shelters/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/our-refuge/shelters/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/help-us/sponsoring/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/help-us/sponsoring/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/the-project/train/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/the-project/train/" /><changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://apehex.github.io/laama/en/help-us/volunteering/</loc><xhtml:link rel="alternate" hreflang="en" href="https://apehex.github.io/laama/en/help-us/volunteering/" /><changefreq>weekly</changefreq>
+  </url></urlset>
