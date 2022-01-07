@@ -1,6 +1,6 @@
 ---
 layout: page
-lang-ref: page-our-refuge-our-values
+lang-ref: page-the-project-our-values
 title: Our Values
 ---
 <article id="main">

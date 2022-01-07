@@ -6,8 +6,6 @@ menu:
         menu:
           - title: Shelters
             url: /en/our-refuge/shelters/
-          - title: Our Values
-            url: /en/our-refuge/our-values/
       - title: The Rescued
         url: ""
         menu:
@@ -33,6 +31,8 @@ menu:
             url: /en/the-project/train/
           - title: Raise Awareness
             url: /en/the-project/raise-awareness/
+          - title: Our Values
+            url: /en/the-project/our-values/
       - title: About Us
         url: ""
         menu:
@@ -46,8 +46,6 @@ menu:
         menu:
           - title: Secourir
             url: /fr/notre-refuge/secourir/
-          - title: Nos Valeurs
-            url: /fr/notre-refuge/nos-valeurs/
       - title: Les Rescapés
         url: ""
         menu:
@@ -73,6 +71,8 @@ menu:
             url: /fr/le-projet/eduquer/
           - title: Sensibiliser
             url: /fr/le-projet/sensibiliser/
+          - title: Nos Valeurs
+            url: /fr/le-projet/nos-valeurs/
       - title: "&Agrave; Propos"
         url: ""
         menu:
